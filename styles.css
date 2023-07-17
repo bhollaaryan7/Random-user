@@ -1,0 +1,63 @@
+#header{
+    height: 300px;
+}
+#randomUser{
+  background-color: #009975;
+}
+.welcome{
+    margin-bottom: 99px;
+    margin-left: 99px;
+}
+.image{
+    margin-right: 100px;
+}
+
+
+.container {
+    position: relative;
+    height: 200px;
+    width: 200px;
+    border: 1px solid #000;
+    overflow: hidden;
+  }
+  
+  .arrow {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translate(-50%, -50%);
+    width: 100px;
+    height: 20px;
+    background-color: #000;
+    transform-origin: right center;
+  }
+  .form{
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  .code{
+    margin-left: 500px;
+  }
+  .dataDisplay{
+    display: flex;
+    height: 350px;
+  }
+  .section1{
+    width: 25%;
+  }
+  #nameText{
+    margin-right: 100px;
+  }
+  #name{
+    margin-left: 120px;
+    color: #009975;
+  }
+  #genderReveal{
+    color: #009975;
+  }
+  #spaceship {
+    width: 100px;
+    height: 100px;
+    background-color: silver;
+  }
+  
